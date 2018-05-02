@@ -1,0 +1,1 @@
+moj prvy repozitar readme 
